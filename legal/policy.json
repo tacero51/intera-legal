@@ -1,0 +1,24 @@
+{
+  "product": "MIO",
+  "version_schema": "semver",
+  "policies": {
+    "privacy": {
+      "version": "1.0.0",
+      "effective_date": "yyyy-mm-dd",
+      "last_updated": "yyyy-mm-dd",
+      "url": "legal/privacy/"
+    },
+    "terms": {
+      "version": "1.0.0",
+      "effective_date": "yyyy-mm-dd",
+      "last_updated": "yyyy-mm-dd",
+      "url": "legal/terms/"
+    },
+    "choices": {
+      "url": "legal/choices/"
+    },
+    "delete": {
+      "url": "legal/delete/"
+    }
+  }
+}
