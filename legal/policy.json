@@ -4,21 +4,15 @@
   "policies": {
     "privacy": {
       "version": "1.0.0",
-      "effective_date": "yyyy-mm-dd",
-      "last_updated": "yyyy-mm-dd",
+      "effective_date": "2025-09-01",
+      "last_updated": "2025-09-01",
       "url": "legal/privacy/"
     },
     "terms": {
       "version": "1.0.0",
-      "effective_date": "yyyy-mm-dd",
-      "last_updated": "yyyy-mm-dd",
+      "effective_date": "2025-09-01",
+      "last_updated": "2025-09-01",
       "url": "legal/terms/"
-    },
-    "choices": {
-      "url": "legal/choices/"
-    },
-    "delete": {
-      "url": "legal/delete/"
     }
   }
 }
