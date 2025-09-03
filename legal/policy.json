@@ -3,7 +3,7 @@
   "version_schema": "semver",
   "policies": {
     "privacy": {
-      "version": "1.0.1",
+      "version": "2.0.1",
       "effective_date": "2025-09-01",
       "last_updated": "2025-09-01",
       "url": "legal/privacy/"
