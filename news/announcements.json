@@ -1,20 +1,18 @@
 {
   "announcements": [
     {
-      "id": "2025-09-03-release",      // 必須: 一意
-      "title": "新バージョン公開",       // 必須
+      "id": "2025-09-03-release",
+      "title": "新バージョン公開",
       "body": "不具合修正と改善を行いました。",
       "actionLabel": "詳しく見る",
       "actionUrl": "https://tacero51.github.io/mio-legal/news/2025-09-03",
-      "priority": "normal",             // normal | high (任意)
-      "required": true,                // 任意（既定: false）
+      "priority": "normal",
+      "required": true,
       "startAt": "2025-09-01T00:00:00Z",
       "endAt":   "2025-10-01T00:00:00Z",
       "targets": {
         "minAppVersion": null,
         "maxAppVersion": null,
-//        "locales": ["ja"],
-//        "themes":  ["Simple","Dive"]   // 任意: アプリのテーマ名で出し分け
       }
     }
   ]
