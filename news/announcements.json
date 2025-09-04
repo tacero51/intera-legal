@@ -3,9 +3,7 @@
     {
       "id": "2025-09-03-release",
       "title": "新バージョン公開",
-      "body": "不具合修正と改善を行いました。",
-      "actionLabel": "詳しく見る",
-      "actionUrl": "https://tacero51.github.io/mio-legal/news/2025-09-03",
+      "body": "新バージョンを公開しました。",
       "priority": "normal",
       "required": true,
       "startAt": "2025-09-01T00:00:00Z",
