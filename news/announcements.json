@@ -7,7 +7,7 @@
       "actionLabel": "詳しく見る",
       "actionUrl": "https://tacero51.github.io/mio-legal/news/2025-09-03",
       "priority": "normal",             // normal | high (任意)
-      "required": false,                // 任意（既定: false）
+      "required": true,                // 任意（既定: false）
       "startAt": "2025-09-01T00:00:00Z",
       "endAt":   "2025-10-01T00:00:00Z",
       "targets": {
