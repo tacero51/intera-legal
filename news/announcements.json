@@ -11,10 +11,10 @@
       "startAt": "2025-09-01T00:00:00Z",
       "endAt":   "2025-10-01T00:00:00Z",
       "targets": {
-        "minAppVersion": "1.2.0",
+        "minAppVersion": null,
         "maxAppVersion": null,
-        "locales": ["ja"],
-        "themes":  ["Simple","Dive"]   // 任意: アプリのテーマ名で出し分け
+//        "locales": ["ja"],
+//        "themes":  ["Simple","Dive"]   // 任意: アプリのテーマ名で出し分け
       }
     }
   ]
