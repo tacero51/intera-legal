@@ -5,7 +5,7 @@
       "title": "新バージョン公開",
       "body": "新バージョンを公開しました。",
       "priority": "normal",
-      "required": true,
+      "required": false,
       "startAt": "2025-09-01T00:00:00Z",
       "endAt":   "2025-10-01T00:00:00Z",
       "targets": {
