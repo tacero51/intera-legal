@@ -9,7 +9,7 @@
       "upgradeOnly": true,
       "targets": {
         "minAppVersion": "1.7.0",
-        "locales": ["ja"]
+        "locales": ["ja", "en"]
       }
     },
     {
@@ -22,7 +22,7 @@
       "required": true,
       "targets": {
         "minAppVersion": "1.7.0",
-        "locales": ["ja"]
+        "locales": ["ja", "en"]
       }
     }
   ]
